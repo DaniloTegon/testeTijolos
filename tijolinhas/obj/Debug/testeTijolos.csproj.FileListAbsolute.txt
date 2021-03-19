@@ -1,0 +1,7 @@
+C:\Users\Danilo\source\repos\testeTijolos\bin\Debug\testeTijolos.exe.config
+C:\Users\Danilo\source\repos\testeTijolos\bin\Debug\testeTijolos.exe
+C:\Users\Danilo\source\repos\testeTijolos\bin\Debug\testeTijolos.pdb
+C:\Users\Danilo\source\repos\testeTijolos\obj\Debug\testeTijolos.csprojAssemblyReference.cache
+C:\Users\Danilo\source\repos\testeTijolos\obj\Debug\testeTijolos.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\source\repos\testeTijolos\obj\Debug\testeTijolos.exe
+C:\Users\Danilo\source\repos\testeTijolos\obj\Debug\testeTijolos.pdb
